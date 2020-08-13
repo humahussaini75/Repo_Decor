@@ -24,6 +24,7 @@ def dec1(func1):
     def nowexec():
         print("Executing by humaira before")
         print("Executing by iqbal now")
+        print( "Executing by huma again" )
         func1()
         print("Executed")
 
