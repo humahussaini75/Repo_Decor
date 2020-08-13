@@ -22,7 +22,7 @@
 
 def dec1(func1):
     def nowexec():
-        print("Executing now")
+        print("Executing by me now")
         func1()
         print("Executed")
 
