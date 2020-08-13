@@ -25,6 +25,7 @@ def dec1(func1):
         print("Executing by humaira before")
         print("Executing by iqbal now")
         print( "Executing by huma again" )
+        print("Now iqbal and Humaira sleeping ")
         func1()
         print("Executed")
 
